@@ -1,0 +1,2 @@
+INSERT INTO CUSTOMERS 
+VALUES (7, 'Muffy', 24, 'Indore', 10000.00 );
